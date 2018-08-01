@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/ThisNameWasTaken/gulp-image-optimise.svg?branch=master)](https://travis-ci.org/ThisNameWasTaken/gulp-image-optimise)
-[![Dependency Status](https://david-dm.org/ThisNameWasTaken/gulp-image-optimise.svg)](https://david-dm.org/ThisNameWasTaken/gulp-image-optimise)
 [![devDependency Status](https://david-dm.org/ThisNameWasTaken/gulp-image-optimise/dev-status.svg)](https://david-dm.org/ThisNameWasTaken/gulp-image-optimise#info=devDependencies)
 # Gulp Image Optimise
 
